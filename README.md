@@ -25,6 +25,7 @@ This repository contains the deliverables for the manual testing project, includ
 - **Contents**: 
   - Screenshots and videos for bug reporting related to Question 03.
   - These materials demonstrate the identified bugs visually.
+![image](https://github.com/user-attachments/assets/14f86e7c-bf00-49d5-ac41-920d5d2f6fcd)
 
 ---
 
@@ -32,7 +33,12 @@ This repository contains the deliverables for the manual testing project, includ
 - **Contents**:
   - Test cases (Positive and Negative) for **Feature 1** and **Feature 2**.
   - Detailed scenarios for validating the features under different conditions.
+- **Feature - 01**:
+![image](https://github.com/user-attachments/assets/030071df-1153-465c-af14-0ac6d5f47c3a)
 
+- **Feature - 02**:
+![image](https://github.com/user-attachments/assets/1f2a0f23-c5f1-490d-864f-898f49293bd2)
+  
 ---
 
 ### 3. `Question - 03 (Bug Reporting).xlsx`
