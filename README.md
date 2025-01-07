@@ -114,6 +114,6 @@ For Better Understand check the - [File Link](https://docs.google.com/spreadshee
   - **Question Answer 2**: Priority sequence for identified tasks.
   - **Question Answer 5**: Checklist for validating Features 1 and 2.
 
-For Better Understand check the **`[Goole Docs Link](#https://docs.google.com/document/d/1u1tfP5kkkhT5OfdkT53Xh8nagND9ea3j/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
+For Better Understand check the **`[Goole Docs Link](#https://docs.google.com/document/d/1u1tfP5kkkhT5OfdkT53Xh8nagND9ea3j/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**.
 
 ---
