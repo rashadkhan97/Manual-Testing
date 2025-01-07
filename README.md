@@ -90,7 +90,8 @@ This repository contains the deliverables for the manual testing project, includ
 - **Feature - 02**:
 ![image](https://github.com/user-attachments/assets/1f2a0f23-c5f1-490d-864f-898f49293bd2)
 
-For Better Understand check the - [File Link](https://docs.google.com/spreadsheets/d/1_xS181hz0pss2SjIDS0EVDSQ48y3blKQ/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true) 
+For Better Understand check the link - <a href="https://docs.google.com/spreadsheets/d/1_xS181hz0pss2SjIDS0EVDSQ48y3blKQ/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true">File Link</a>.
+
 ---
 
 ### 3. `Question - 03 (Bug Reporting).xlsx`
