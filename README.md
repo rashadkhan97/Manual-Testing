@@ -46,8 +46,9 @@ This repository contains the deliverables for the manual testing project, includ
   - Bug reporting sheet containing at least 10 identified bugs/improvements.
   - Includes descriptions, steps to reproduce, severity, and priority for each bug.
 - **Bug Reporting in Excel**:
-  ![image](https://github.com/user-attachments/assets/2d358fba-c232-494d-8b12-077f4f22994e)
-  ![image](https://github.com/user-attachments/assets/395fb086-0229-4470-ab03-b708ee90bab4)
+![image](https://github.com/user-attachments/assets/2d358fba-c232-494d-8b12-077f4f22994e)
+![image](https://github.com/user-attachments/assets/f255aff8-de05-45f9-8c10-437ddd64e660)
+
 
 ---
 
