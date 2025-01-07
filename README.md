@@ -90,7 +90,7 @@ This repository contains the deliverables for the manual testing project, includ
 - **Feature - 02**:
 ![image](https://github.com/user-attachments/assets/1f2a0f23-c5f1-490d-864f-898f49293bd2)
 
-For Better Understand check the **`[File Link](https://docs.google.com/spreadsheets/d/125X829sBsEkr-WvKyNe-8SxTrkyuuUgH/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
+For Better Understand check the **`[File Link](#https://docs.google.com/spreadsheets/d/125X829sBsEkr-WvKyNe-8SxTrkyuuUgH/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
   
 ---
 
@@ -102,7 +102,7 @@ For Better Understand check the **`[File Link](https://docs.google.com/spreadshe
 ![image](https://github.com/user-attachments/assets/2d358fba-c232-494d-8b12-077f4f22994e)
 ![image](https://github.com/user-attachments/assets/f255aff8-de05-45f9-8c10-437ddd64e660)
 
-For Better Understand check the **`[File Link](https://docs.google.com/spreadsheets/d/1_xS181hz0pss2SjIDS0EVDSQ48y3blKQ/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
+For Better Understand check the **`[File Link](#https://docs.google.com/spreadsheets/d/1_xS181hz0pss2SjIDS0EVDSQ48y3blKQ/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
 
 
 ---
@@ -113,6 +113,6 @@ For Better Understand check the **`[File Link](https://docs.google.com/spreadshe
   - **Question Answer 2**: Priority sequence for identified tasks.
   - **Question Answer 5**: Checklist for validating Features 1 and 2.
 
-For Better Understand check the **`[Goole Docs Link](https://docs.google.com/document/d/1u1tfP5kkkhT5OfdkT53Xh8nagND9ea3j/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
+For Better Understand check the **`[Goole Docs Link](#https://docs.google.com/document/d/1u1tfP5kkkhT5OfdkT53Xh8nagND9ea3j/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
 
 ---
