@@ -102,7 +102,8 @@ For Better Understand check the link - <a href="https://docs.google.com/spreadsh
 ![image](https://github.com/user-attachments/assets/2d358fba-c232-494d-8b12-077f4f22994e)
 ![image](https://github.com/user-attachments/assets/f255aff8-de05-45f9-8c10-437ddd64e660)
 
-For Better Understand check the **`[File Link](#https://docs.google.com/spreadsheets/d/1_xS181hz0pss2SjIDS0EVDSQ48y3blKQ/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true)`**
+For Better Understand check the - [File Link](https://docs.google.com/spreadsheets/d/1_xS181hz0pss2SjIDS0EVDSQ48y3blKQ/edit?usp=sharing&ouid=113748567292900710037&rtpof=true&sd=true).
+
 
 
 ---
